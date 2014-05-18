@@ -28,3 +28,19 @@ h1 {
   width: 100%;
   margin: 5% auto 5%;
 }
+
+nav {
+  margin-top: 2em;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  font: 3em/1 kaushan-script;
+  text-decoration: none;
+  display: inline-block;
+  text-shadow:#12316F -2px 2px 0,
+  #12316F -4px 4px 0,
+  #375EAB -6px 6px 0,
+  #375EAB -8px 8px 0;
+}
