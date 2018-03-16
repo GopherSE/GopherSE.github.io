@@ -2,13 +2,13 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: #375EAB;
   color: #fff;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 
 .container {
-  width: 90%;
+  width: 80%;
   margin:0 auto;
-  max-width:1140px;
+  max-width:960px;
 }
 
 header {
